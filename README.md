@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [portfolio-analytics/projects/exposure-aware-rebalancing-optimizer](https://github.com/john-stromberg/portfolio-analytics/tree/main/projects/exposure-aware-rebalancing-optimizer).
+> This repository is retained as a historical snapshot.
+
+---
+
 # exposure-aware-rebalancing-optimizer
 
 Track: **SMA Quantitative Research**
